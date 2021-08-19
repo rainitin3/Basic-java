@@ -19,6 +19,7 @@ public class MyArrayList
 	fruits.toArray();         //3
 	fruits.remove("orange");   //4
 	
+	
 	rate.add(20);
 	rate.add(56);
     rate.add(45);
